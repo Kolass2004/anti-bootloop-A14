@@ -1,0 +1,6 @@
+id=abootloop
+name=Anti bootloop for android
+version=v1.0
+versionCode=1
+author=kolass rexon J
+description=Protection from bootloop. Press power key at boot to disable magisk modules
